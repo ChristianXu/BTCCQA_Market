@@ -1,17 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <users>
-    <account name="1904736199@qq.com">
-        <access_key>9d2372a8-14be-46d8-ac6f-466cd6faa29e</access_key>
-        <secret_key>e8a2b633-82fc-464f-94b2-c7639d64efbd</secret_key>
-    </account>
-
-    <account name="xukangtest@yopmail.com">
-        <access_key>1bde6407-836d-46e6-97ee-df368c538bd2</access_key>
-        <secret_key>4560a9b1-6ecf-4724-bffb-bb809a95f2c5</secret_key>
-    </account>
-
-    <account name="xk@yopmail.com">
-        <access_key>a39ad121-31a5-4a1a-acc7-b702c7ca46f7</access_key>
-        <secret_key>270ee071-9fc1-4441-938c-41df4dcffcc6</secret_key>
-    </account>
+    
 </users>
