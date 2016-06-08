@@ -1,0 +1,28 @@
+20160608-03:25:05.000 : Created session
+20160608-03:25:05.000 : Connecting to 127.0.0.1 on port 9879
+20160608-03:25:05.000 : Initiated logon request
+20160608-03:28:36.000 : Created session
+20160608-03:28:36.000 : Connecting to 127.0.0.1 on port 9879
+20160608-03:28:36.000 : Initiated logon request
+20160608-03:29:19.000 : Created session
+20160608-03:29:19.000 : Connecting to 127.0.0.1 on port 9879
+20160608-03:29:19.000 : Initiated logon request
+20160608-03:31:52.000 : Created session
+20160608-03:31:52.000 : Connecting to 127.0.0.1 on port 9879
+20160608-03:31:52.000 : Initiated logon request
+20160608-03:32:07.000 : Created session
+20160608-03:32:07.000 : Connecting to 127.0.0.1 on port 9879
+20160608-03:32:07.000 : Initiated logon request
+20160608-03:34:18.000 : Created session
+20160608-03:34:18.000 : Connecting to 127.0.0.1 on port 9879
+20160608-03:34:18.000 : Initiated logon request
+20160608-03:35:47.000 : Created session
+20160608-03:35:47.000 : Connecting to 127.0.0.1 on port 9879
+20160608-03:35:47.000 : Initiated logon request
+20160608-03:35:47.000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20160608-03:35:47.000 : Received logon response
+20160608-03:54:14.000 : Created session
+20160608-03:54:14.000 : Connecting to 127.0.0.1 on port 9879
+20160608-03:54:14.000 : Initiated logon request
+20160608-03:54:14.000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20160608-03:54:14.000 : Received logon response

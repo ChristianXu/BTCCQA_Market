@@ -9,11 +9,11 @@ import base64
 import httplib
 import json
  
-class BTCChina():
+class BTCC():
     def __init__(self,access=None,secret=None):
         self.access_key=access
         self.secret_key=secret
-        self.conn=httplib.HTTPSConnection("api.btcchina.com")
+        self.conn=httplib.HTTPSConnection("api-staging.btcc.com")
  
     def _get_tonce(self):
         return int(time.time()*1000000)

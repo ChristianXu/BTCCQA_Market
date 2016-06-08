@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 __author__ = 'sara'
 
 import comm.comm as comm
@@ -13,7 +14,7 @@ class RunServer(threading.Thread):
         self.dp = dp
 
     def run(self):
-        self.dp.make_depth(1000)
+        self.dp.make_depth(1)
 
 
 def run():

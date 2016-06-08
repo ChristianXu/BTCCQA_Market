@@ -48,3 +48,17 @@ def get_xml():
         user_dict[user_name] = info
 
     return user_dict
+
+import time
+import hmac
+import hashlib
+import base64
+
+
+def get_account_string(access_key, secret_key):
+        method_str = "method=getForwardsAccountInfo&params="
+        tonce = int(time.time()*1000000)
+        params = "tonce=" + str(tonce) + "&accesskey=" + access_key + "&requestmethod=post&id=1&" + method_str
+        phash = hmac.new(secret_key, params, hashlib.sha1).hexdigest()
+        auth_string =str(tonce)+":"+'Basic '+base64.b64encode(bytes(access_key+':'+phash))
+        return auth_string
