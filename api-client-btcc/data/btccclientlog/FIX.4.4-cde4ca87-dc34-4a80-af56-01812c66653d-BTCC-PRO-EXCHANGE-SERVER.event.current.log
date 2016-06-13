@@ -1,0 +1,35 @@
+20160612-07:14:16.000 : Created session
+20160612-07:14:16.000 : Connecting to 127.0.0.1 on port 9880
+20160612-07:14:16.000 : Initiated logon request
+20160612-07:14:16.000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20160612-07:14:16.000 : Received logon response
+20160612-07:16:51.000 : Created session
+20160612-07:16:51.000 : Connecting to 127.0.0.1 on port 9880
+20160612-07:16:51.000 : Initiated logon request
+20160612-07:16:51.000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20160612-07:16:51.000 : Received logon response
+20160612-07:21:22.000 : Created session
+20160612-07:21:22.000 : Connecting to 127.0.0.1 on port 9880
+20160612-07:21:22.000 : Initiated logon request
+20160612-07:21:23.000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20160612-07:21:23.000 : Received logon response
+20160612-07:29:06.000 : Created session
+20160612-07:29:06.000 : Connecting to 127.0.0.1 on port 9880
+20160612-07:29:06.000 : Initiated logon request
+20160612-07:29:06.000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20160612-07:29:06.000 : Received logon response
+20160612-07:29:28.000 : Created session
+20160612-07:29:28.000 : Connecting to 127.0.0.1 on port 9880
+20160612-07:29:28.000 : Initiated logon request
+20160612-07:29:28.000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20160612-07:29:28.000 : Received logon response
+20160612-07:35:25.000 : Created session
+20160612-07:35:25.000 : Connecting to 127.0.0.1 on port 9880
+20160612-07:35:25.000 : Initiated logon request
+20160612-07:35:26.000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20160612-07:35:26.000 : Received logon response
+20160612-07:36:28.000 : Created session
+20160612-07:36:28.000 : Connecting to 127.0.0.1 on port 9880
+20160612-07:36:28.000 : Initiated logon request
+20160612-07:36:28.000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20160612-07:36:28.000 : Received logon response
