@@ -13,10 +13,13 @@ config_dir = os.path.join(prj_dir, "config")
 
 
 def get_url_response(url):
+    try:
 
-    response = urllib.urlopen(url)
+        response = urllib.urlopen(url)
 
-    resp_dict = json.loads(response.read().decode("utf-8"))
+        resp_dict = json.loads(response.read().decode("utf-8"))
+    except ValueError:
+        return {}
 
     return resp_dict
 
@@ -48,6 +51,24 @@ def get_xml():
         user_dict[user_name] = info
 
     return user_dict
+
+
+def make_url_cls(dict):
+    """
+    将传进来的参数串成url参数式样
+    :param kwargs:
+    :return:
+    """
+    url_cls = ""
+    count = 0
+    for (key, value) in dict.items():
+        count += 1
+        url_cls += "%s=%s"%(key, value)
+
+        if count < len(dict):
+            url_cls += "&"
+
+    return url_cls
 
 import time
 import hmac
